@@ -7,3 +7,6 @@ Permite conocer el estado actual del repositorio.
 
 ## Comandos por agregar
 Los colaboradores deberán agregar nuevos comandos y explicar brevemente su función.
+ 
+## cd colaboracion-git
+Sirve para entrar a la carpeta del repositorio.
